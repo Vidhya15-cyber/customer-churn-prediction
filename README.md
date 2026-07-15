@@ -91,16 +91,6 @@ python app.py
 - Prediction
 - Performance Evaluation
 
----
-
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- Prediction Form
-- Prediction Result
-- Model Accuracy (optional)
 
 ---
 
